@@ -1,0 +1,11 @@
+{
+    "conexion" : {
+        "server": "localhost",
+        "user": "root",
+        "password" : "",
+        "database": "api-rest",
+        "port":  "3306"
+    } 
+}
+
+
